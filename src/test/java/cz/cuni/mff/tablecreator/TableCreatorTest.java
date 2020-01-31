@@ -21,6 +21,7 @@ public class TableCreatorTest {
 
         @Column(nullable = false)
         public String name;
+
         private String password;
 
     }
